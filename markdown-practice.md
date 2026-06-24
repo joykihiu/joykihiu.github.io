@@ -1,52 +1,43 @@
-!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Site</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 700px;
-            margin: 50px auto;
-            padding: 0 20px;
-            line-height: 1.6;
-            color: #333;
-        }
-        h1 {
-            border-bottom: 2px solid #0366d6;
-            padding-bottom: 10px;
-        }
-        a {
-            color: #0366d6;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome! I'm [Your Name]</h1>
+My Learning Goals
 
-    <div class="section">
-        <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
-    </div>
+This Semester
 
-    <div class="section">
-        <h2>What I'm Learning</h2>
-        <ul>
-            <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
-        </ul>
-    </div>
+I want to learn GitHub, improve my coding skills, and practice using "Markdown".
 
-    <div class="section">
-        <h2>Links</h2>
-        <ul>
-            <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
-        </ul>
-    </div>
-</body>
-</html>
+Links
+
+- My GitHub Profile: "Joykihiu GitHub" (https://github.com/joykihiu)
+- Useful Website: "GitHub Docs" (https://docs.github.com)
+
+Things I Want to Learn
+
+- Git and GitHub
+- Artificial Intelligence
+- Web Development
+
+Steps to Make a Git Commit
+
+1. Make changes to a file.
+2. Write a commit message.
+3. Click Commit changes.
+
+Tools Table
+
+Tool| Purpose| Link
+GitHub| Version Control| https://github.com
+ChatGPT| Learning and Research| https://chatgpt.com
+
+Learning Tasks
+
+- [x] Create a GitHub account
+- [x] Create a repository
+- [ ] Learn Markdown
+- [ ] Build more websites
+
+Code Example
+
+print("Hello, world!")
+
+Advice
+
+«Consistency beats perfection. Small progress every day adds up
